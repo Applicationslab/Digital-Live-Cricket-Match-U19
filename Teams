@@ -1,0 +1,89 @@
+[{
+		"GroupName": "Group A",
+		"TeamImage": "https://flagdownload.com/wp-content/uploads/Flag_of_Bangladesh_Flat_Round-256x256.png",
+		"TeamName": "Bangladesh",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group A",
+		"TeamImage": "https://www.seekpng.com/png/full/204-2046827_canada-flag-knob-sticker-canada-flag-circle-png.png",
+		"TeamName": "Canada",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group A",
+		"TeamImage": "https://www.pikpng.com/pngl/b/102-1029925_illustration-of-flag-of-england-england-flag-circle.png",
+		"TeamName": "England",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group A",
+		"TeamImage": "https://cdn-icons-png.flaticon.com/512/323/323301.png",
+		"TeamName": "United Arab Emirates",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
+		"TeamName": "India",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group B",
+		"TeamImage": "https://cdn.countryflags.com/thumbs/ireland/flag-round-250.png",
+		"TeamName": "Ireland",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
+		"TeamName": "South Africa",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group B",
+		"TeamImage": "https://njq-ip.com/wp-content/uploads/2014/256/Uganda-Flag.png",
+		"TeamName": "Uganda",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group C",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
+		"TeamName": "Afghanistan",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group C",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
+		"TeamName": "Pakistan",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group C",
+		"TeamImage": "https://aux4.iconspalace.com/uploads/981219600.png",
+		"TeamName": "Papua New Guinea",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group C",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
+		"TeamName": "Zimbabwe",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group D",
+		"TeamImage": "https://globalnaps.org/wp-content/uploads/2019/08/aus.png",
+		"TeamName": "Australia",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group D",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Scotland-icon.png",
+		"TeamName": "Scotland",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Group D",
+		"TeamImage": "https://njq-ip.com/wp-content/uploads/2014/256/Lanka-Sri-Flag.png",
+		"TeamName": "Sri Lanka",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Group D",
+		"TeamImage": "https://images.gamezy.com/teamlogo/West+Indies.png",
+		"TeamName": "West Indies",
+		"TeamPlayer": ""
+	}
+]
