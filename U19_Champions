@@ -1,0 +1,33 @@
+[{
+		"champions": "Champions (2000, 2008, 2012, 2018)",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
+		"TeamName": "India"
+	}, {
+		"champions": "Champions (1988, 2002, 2010)",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
+		"TeamName": "Australia"
+	}, {
+		"Champions": "Champions (2004, 2006)",
+		"ChampionsTeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
+		"ChampionsTeamName": "Pakistan"
+	},
+	{
+		"Champions": "Champions (2020)",
+		"ChampionsTeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
+		"ChampionsTeamName": "Bangladesh"
+	}, {
+		"Champions": "Champions (2016)",
+		"ChampionsTeamImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"ChampionsTeamName": "West Indies"
+	},
+	{
+		"Champions": "Champions (2014)",
+		"ChampionsTeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
+		"ChampionsTeamName": "South Africa"
+	},
+	{
+		"Champions": "Champions (1998)",
+		"ChampionsTeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/128/England-icon.png",
+		"ChampionsTeamName": "England"
+	}
+]
