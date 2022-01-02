@@ -1,0 +1,87 @@
+[{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/yash-dhull.jpg",
+		"TeamName": "Yash Dhull (Captain)",
+		"GroupName": "Batsman"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/harnoor-singh.jpg",
+		"TeamName": "Harnoor Singh",
+		"GroupName": "Batsman"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/shaik-rasheed.jpg",
+		"TeamName": "Shaik Rasheed",
+		"GroupName": "Batsman"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/aaradhya-yadav.jpg",
+		"TeamName": "Aaradhya Yadav",
+		"GroupName": "Batsman"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/angkrish-raghuvanshi.jpg",
+		"TeamName": "Angkrish Raghuvanshi",
+		"GroupName": "Batting Allrounder"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/nishant-sindhu.jpg",
+		"TeamName": "Nishant Sindhu",
+		"GroupName": "Batting Allrounder"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/aneeshwar-gautam.jpg",
+		"TeamName": "Aneeshwar Gautam",
+		"GroupName": "Batting Allrounder"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/kaushal-tambe.jpg",
+		"TeamName": "Kaushal Tambe",
+		"GroupName": "Batting Allrounder"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/manav-parakh.jpg",
+		"TeamName": "Manav Parakh",
+		"GroupName": "Bowling Allrounder"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/dinesh-bana.jpg",
+		"TeamName": "Dinesh Bana (Keeper)",
+		"GroupName": "WK-Batsman"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/rajvardhan-hangargekar.jpg",
+		"TeamName": "Rajvardhan Hangargekar",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/vicky-ostwal.jpg",
+		"TeamName": "Vicky Ostwal",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/garv-sangwan.jpg",
+		"TeamName": "Garv Sangwan",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/raj-bawa.jpg",
+		"TeamName": "Raj Bawa",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/vasu-vats.jpg",
+		"TeamName": "Vasu Vats",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/ravi-kumar.jpg",
+		"TeamName": "Ravi Kumar",
+		"GroupName": "Bowler"
+	},
+	{
+		"TeamImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/siddarth-yadav.jpg",
+		"TeamName": "Siddarth Yadav",
+		"GroupName": "Bowler"
+
+	}
+]
