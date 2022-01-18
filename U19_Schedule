@@ -1,101 +1,11 @@
 [{
-		"TeamOneName": "West Indies ",
-		"TeamTwoName": "Australia ",
-		"TeamOneImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
-		"MatchCount": "1st Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "fri, 14 jan"
-	},
-	{
-		"TeamOneName": "Scotland ",
-		"TeamTwoName": "Sri Lanka ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Scotland-icon.png",
-		"TeamTwoImage": "https://njq-ip.com/wp-content/uploads/2014/256/Lanka-Sri-Flag.png",
-		"MatchCount": "2nd Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "fri, 14 jan"
-	},
-	{
-		"TeamOneName": "Canada ",
-		"TeamTwoName": "United Arab Emirates ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Canada-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/United-arab-emirates-icon.png",
-		"MatchCount": "3rd Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "sat, 15 jan"
-	},
-	{
-		"TeamOneName": "India ",
-		"TeamTwoName": "South Africa ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
-		"MatchCount": "4th Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "sat, 15 jan"
-	},
-	{
-		"TeamOneName": "Ireland ",
-		"TeamTwoName": "Uganda ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Ireland-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Uganda-icon.png",
-		"MatchCount": "5th Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "sat, 15 jan"
-	},
-	{
-		"TeamOneName": "Pakistan ",
-		"TeamTwoName": "Papua New Guinea ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Papua-new-guinea-icon.png",
-		"MatchCount": "6th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "sat, 15 jan"
-	},
-	{
-		"TeamOneName": "Bangladesh ",
-		"TeamTwoName": "England ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
-		"MatchCount": "7th Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "sun, 16 jan"
-	},
-	{
-		"TeamOneName": "Afghanistan ",
-		"TeamTwoName": "Zimbabwe ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
-		"MatchCount": "8th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "sun, 16 jan"
-	},
-	{
-		"TeamOneName": "West Indies ",
-		"TeamTwoName": "Scotland ",
-		"TeamOneImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Scotland-icon.png",
-		"MatchCount": "9th Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "mon, 17 jan"
-	},
-	{
-		"TeamOneName": "Australia ",
-		"TeamTwoName": "Sri Lanka ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
-		"TeamTwoImage": "https://njq-ip.com/wp-content/uploads/2014/256/Lanka-Sri-Flag.png",
-		"MatchCount": "10th Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "mon, 17 jan"
-	},
-	{
 		"TeamOneName": "Canada ",
 		"TeamTwoName": "England ",
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Canada-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
 		"MatchCount": "11th Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "tues, 18 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/canada-under-19s-vs-england-under-19s-11th-match-group-a-1289803/live-cricket-score",
+		"TeamDate": "Jan 18, 02:00 PM"
 	},
 	{
 		"TeamOneName": "South Africa ",
@@ -103,8 +13,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Uganda-icon.png",
 		"MatchCount": "12th Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "tues, 18 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/south-africa-under-19s-vs-uganda-under-19s-12th-match-group-b-1289804/live-cricket-score",
+		"TeamDate": "Jan 18, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Afghanistan ",
@@ -112,8 +22,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Papua-new-guinea-icon.png",
 		"MatchCount": "13th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "tues, 18 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-papua-new-guinea-under-19s-13th-match-group-c-1289805/live-cricket-score",
+		"TeamDate": "Jan 18, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Australia ",
@@ -121,8 +31,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Scotland-icon.png",
 		"MatchCount": "14th Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "wed, 19 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/australia-under-19s-vs-scotland-under-19s-14th-match-group-d-1289806/live-cricket-score",
+		"TeamDate": "Jan 19, 02:00 PM"
 	},
 	{
 		"TeamOneName": "India ",
@@ -130,8 +40,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Ireland-icon.png",
 		"MatchCount": "15th Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "wed, 19 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/india-under-19s-vs-ireland-under-19s-15th-match-group-b-1289807/live-cricket-score",
+		"TeamDate": "Jan 19, 02:00 PM"
 	},
 	{
 		"TeamOneName": "England ",
@@ -139,8 +49,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/United-arab-emirates-icon.png",
 		"MatchCount": "16th Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "thu, 20 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/england-under-19s-vs-united-arab-emirates-under-19s-16th-match-group-a-1289808/live-cricket-score",
+		"TeamDate": "Jan 20, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Bangladesh ",
@@ -148,8 +58,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Canada-icon.png",
 		"MatchCount": "17th Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "thu, 20 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/bangladesh-under-19s-vs-canada-under-19s-17th-match-group-a-1289809/live-cricket-score",
+		"TeamDate": "Jan 20, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Afghanistan ",
@@ -157,8 +67,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
 		"MatchCount": "18th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "thu, 20 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-pakistan-under-19s-18th-match-group-c-1289810/live-cricket-score",
+		"TeamDate": "Jan 20, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Papua New Guinea ",
@@ -166,8 +76,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Papua-new-guinea-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
 		"MatchCount": "19th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "thu, 20 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/pakistan-under-19s-vs-papua-new-guinea-under-19s-23rd-match-group-c-1289798/live-cricket-score",
+		"TeamDate": "Jan 20, 02:00 PM"
 	},
 	{
 		"TeamOneName": "West Indies ",
@@ -175,8 +85,8 @@
 		"TeamOneImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
 		"TeamTwoImage": "https://njq-ip.com/wp-content/uploads/2014/256/Lanka-Sri-Flag.png",
 		"MatchCount": "20th Match, Group D",
-		"DetailsURL": "",
-		"TeamDate": "fri, 21 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/west-indies-under-19s-vs-sri-lanka-under-19s-19th-match-group-d-1289812/live-cricket-score",
+		"TeamDate": "Jan 21, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Ireland ",
@@ -184,8 +94,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Ireland-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
 		"MatchCount": "21st Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "fri, 21 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/ireland-under-19s-vs-south-africa-under-19s-20th-match-group-b-1289813/live-cricket-score",
+		"TeamDate": "Jan 21, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Bangladesh ",
@@ -193,8 +103,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/United-arab-emirates-icon.png",
 		"MatchCount": "22nd Match, Group A",
-		"DetailsURL": "",
-		"TeamDate": "sat, 22 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/bangladesh-under-19s-vs-united-arab-emirates-under-19s-21st-match-group-a-1289814/live-cricket-score",
+		"TeamDate": "Jan 22, 02:00 PM"
 	},
 	{
 		"TeamOneName": "India ",
@@ -202,8 +112,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Uganda-icon.png",
 		"MatchCount": "23rd Match, Group B",
-		"DetailsURL": "",
-		"TeamDate": "sat, 22 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/india-under-19s-vs-uganda-under-19s-22nd-match-group-b-1289815/live-cricket-score",
+		"TeamDate": "Jan 22, 02:00 PM"
 	},
 	{
 		"TeamOneName": "Pakistan ",
@@ -211,8 +121,8 @@
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
 		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
 		"MatchCount": "24th Match, Group C",
-		"DetailsURL": "",
-		"TeamDate": "sat, 22 jan"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-zimbabwe-under-19s-24th-match-group-c-1289800/live-cricket-score",
+		"TeamDate": "Jan 22, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -221,7 +131,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Plate Quarter-Final 1",
 		"DetailsURL": "",
-		"TeamDate": "tues, 25 jan"
+		"TeamDate": "Jan 25, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -230,7 +140,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Plate Quarter-Final 2",
 		"DetailsURL": "",
-		"TeamDate": "tues, 25 jan"
+		"TeamDate": "Jan 25, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -239,7 +149,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Super League Quarter-Final 1",
 		"DetailsURL": "",
-		"TeamDate": "wed, 26 jan"
+		"TeamDate": "Jan 25, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -248,7 +158,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Plate Quarter-Final 3",
 		"DetailsURL": "",
-		"TeamDate": "wed, 26 jan"
+		"TeamDate": "Jan 26, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -257,7 +167,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Plate Quarter-Final 4",
 		"DetailsURL": "",
-		"TeamDate": "wed, 26 jan"
+		"TeamDate": "Jan 26, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -266,7 +176,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Super League Quarter-Final 4",
 		"DetailsURL": "",
-		"TeamDate": "thu, 27 jan"
+		"TeamDate": "Jan 27, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -275,7 +185,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Super League Quarter-Final 3",
 		"DetailsURL": "",
-		"TeamDate": "fri, 28 jan"
+		"TeamDate": "Jan 28, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -284,7 +194,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "9th Place Play-off Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "fri, 28 jan"
+		"TeamDate": "Jan 28, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -293,7 +203,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "13th Place Play-off Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "fri, 28 jan"
+		"TeamDate": "Jan 28, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -302,7 +212,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Super League Quarter-Final 2",
 		"DetailsURL": "",
-		"TeamDate": "sat, 29 jan"
+		"TeamDate": "Jan 29, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -311,7 +221,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "13th Place Play-off Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "sat, 29 jan"
+		"TeamDate": "Jan 29, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -320,7 +230,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "9th Place Play-off Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "sat, 29 jan"
+		"TeamDate": "Jan 29, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -329,7 +239,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "5th Place Play-off Semi-Final,",
 		"DetailsURL": "",
-		"TeamDate": "sun, 30 jan"
+		"TeamDate": "Jan 30, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -338,7 +248,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "15th Place Play-off",
 		"DetailsURL": "",
-		"TeamDate": "sun, 30 jan"
+		"TeamDate": "Jan 30, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -347,7 +257,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "13th Place Play-off",
 		"DetailsURL": "",
-		"TeamDate": "sun, 30 jan"
+		"TeamDate": "Jan 30, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -356,7 +266,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "5th Place Play-off Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "mon, 31 jan"
+		"TeamDate": "Jan 31, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -365,7 +275,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "11th Place Play-off,",
 		"DetailsURL": "",
-		"TeamDate": "mon, 31 jan"
+		"TeamDate": "Jan 31, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -374,7 +284,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Plate Final",
 		"DetailsURL": "",
-		"TeamDate": "mon, 31 jan"
+		"TeamDate": "Jan 31, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -383,7 +293,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "1st Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "tues, 01 feb"
+		"TeamDate": "Feb 01, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -392,7 +302,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "2nd Semi-Final",
 		"DetailsURL": "",
-		"TeamDate": "wed, 02 feb"
+		"TeamDate": "Feb 02, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -401,7 +311,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "5th Place Play-off",
 		"DetailsURL": "",
-		"TeamDate": "thu, 03 feb"
+		"TeamDate": "Feb 03, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -410,7 +320,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "7th Place Play-off",
 		"DetailsURL": "",
-		"TeamDate": "thu, 03 feb"
+		"TeamDate": "Feb 03, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -419,7 +329,7 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "3rd Place Play-off",
 		"DetailsURL": "",
-		"TeamDate": "fri, 04 feb"
+		"TeamDate": "Feb 04, 02:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -428,6 +338,6 @@
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "Final, North Sound",
 		"DetailsURL": "",
-		"TeamDate": "sat, 05 feb"
+		"TeamDate": "Feb 05, 02:00 PM"
 	}
 ]
