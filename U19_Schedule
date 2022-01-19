@@ -1,30 +1,4 @@
-[{
-		"TeamOneName": "Canada ",
-		"TeamTwoName": "England ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Canada-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
-		"MatchCount": "11th Match, Group A",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/canada-under-19s-vs-england-under-19s-11th-match-group-a-1289803/live-cricket-score",
-		"TeamDate": "Jan 18, 02:00 PM"
-	},
-	{
-		"TeamOneName": "South Africa ",
-		"TeamTwoName": "Uganda ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Uganda-icon.png",
-		"MatchCount": "12th Match, Group B",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/south-africa-under-19s-vs-uganda-under-19s-12th-match-group-b-1289804/live-cricket-score",
-		"TeamDate": "Jan 18, 02:00 PM"
-	},
-	{
-		"TeamOneName": "Afghanistan ",
-		"TeamTwoName": "Papua New Guinea ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Papua-new-guinea-icon.png",
-		"MatchCount": "13th Match, Group C",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-papua-new-guinea-under-19s-13th-match-group-c-1289805/live-cricket-score",
-		"TeamDate": "Jan 18, 02:00 PM"
-	},
+[
 	{
 		"TeamOneName": "Australia ",
 		"TeamTwoName": "Scotland ",
