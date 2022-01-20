@@ -1,23 +1,4 @@
-[
-	{
-		"TeamOneName": "Australia ",
-		"TeamTwoName": "Scotland ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Scotland-icon.png",
-		"MatchCount": "14th Match, Group D",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/australia-under-19s-vs-scotland-under-19s-14th-match-group-d-1289806/live-cricket-score",
-		"TeamDate": "Jan 19, 01:00 PM"
-	},
-	{
-		"TeamOneName": "India ",
-		"TeamTwoName": "Ireland ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Ireland-icon.png",
-		"MatchCount": "15th Match, Group B",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/india-under-19s-vs-ireland-under-19s-15th-match-group-b-1289807/live-cricket-score",
-		"TeamDate": "Jan 19, 01:00 PM"
-	},
-	{
+[{
 		"TeamOneName": "England ",
 		"TeamTwoName": "United Arab Emirates ",
 		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
