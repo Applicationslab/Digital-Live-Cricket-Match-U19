@@ -1,39 +1,4 @@
-[{
-		"TeamOneName": "England ",
-		"TeamTwoName": "United Arab Emirates ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/England-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/United-arab-emirates-icon.png",
-		"MatchCount": "16th Match, Group A",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/england-under-19s-vs-united-arab-emirates-under-19s-16th-match-group-a-1289808/live-cricket-score",
-		"TeamDate": "Jan 20, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Bangladesh ",
-		"TeamTwoName": "Canada ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Canada-icon.png",
-		"MatchCount": "17th Match, Group A",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/bangladesh-under-19s-vs-canada-under-19s-17th-match-group-a-1289809/live-cricket-score",
-		"TeamDate": "Jan 20, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Afghanistan ",
-		"TeamTwoName": "Pakistan ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Afghanistan-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
-		"MatchCount": "18th Match, Group C",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-pakistan-under-19s-18th-match-group-c-1289810/live-cricket-score",
-		"TeamDate": "Jan 20, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Papua New Guinea ",
-		"TeamTwoName": "Zimbabwe ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Papua-new-guinea-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
-		"MatchCount": "19th Match, Group C",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/pakistan-under-19s-vs-papua-new-guinea-under-19s-23rd-match-group-c-1289798/live-cricket-score",
-		"TeamDate": "Jan 20, 01:00 PM"
-	},
+[
 	{
 		"TeamOneName": "West Indies ",
 		"TeamTwoName": "Sri Lanka ",
