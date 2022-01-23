@@ -1,111 +1,65 @@
-[
-	{
-		"TeamOneName": "West Indies ",
-		"TeamTwoName": "Sri Lanka ",
-		"TeamOneImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
-		"TeamTwoImage": "https://njq-ip.com/wp-content/uploads/2014/256/Lanka-Sri-Flag.png",
-		"MatchCount": "20th Match, Group D",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/west-indies-under-19s-vs-sri-lanka-under-19s-19th-match-group-d-1289812/live-cricket-score",
-		"TeamDate": "Jan 21, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Ireland ",
-		"TeamTwoName": "South Africa ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Ireland-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/South-africa-icon.png",
-		"MatchCount": "21st Match, Group B",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/ireland-under-19s-vs-south-africa-under-19s-20th-match-group-b-1289813/live-cricket-score",
-		"TeamDate": "Jan 21, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Bangladesh ",
-		"TeamTwoName": "United Arab Emirates ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/United-arab-emirates-icon.png",
-		"MatchCount": "22nd Match, Group A",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/bangladesh-under-19s-vs-united-arab-emirates-under-19s-21st-match-group-a-1289814/live-cricket-score",
-		"TeamDate": "Jan 22, 01:00 PM"
-	},
-	{
-		"TeamOneName": "India ",
-		"TeamTwoName": "Uganda ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Uganda-icon.png",
-		"MatchCount": "23rd Match, Group B",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/india-under-19s-vs-uganda-under-19s-22nd-match-group-b-1289815/live-cricket-score",
-		"TeamDate": "Jan 22, 01:00 PM"
-	},
-	{
-		"TeamOneName": "Pakistan ",
-		"TeamTwoName": "Zimbabwe ",
-		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Pakistan-icon.png",
-		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Zimbabwe-icon.png",
-		"MatchCount": "24th Match, Group C",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-zimbabwe-under-19s-24th-match-group-c-1289800/live-cricket-score",
-		"TeamDate": "Jan 22, 01:00 PM"
-	},
-	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+[{
+		"TeamOneName": "Uganda",
+		"TeamTwoName": "United Arab Emirates",
+		"TeamOneImage": "https://aux.iconspalace.com/uploads/1878133248.png",
+		"TeamTwoImage": "https://cdn-icons-png.flaticon.com/512/323/323301.png",
 		"MatchCount": "Plate Quarter-Final 1",
-		"DetailsURL": "",
-		"TeamDate": "Jan 25, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/uganda-under-19s-vs-united-arab-emirates-under-19s-plate-quarter-final-1-1289817/live-cricket-score",
+		"TeamDate": "Jan 24, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Canada",
+		"TeamTwoName": "Ireland",
+		"TeamOneImage": "https://icon-library.com/images/canadian-flag-icon/canadian-flag-icon-4.jpg",
+		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/ireland/flag-round-250.png",
 		"MatchCount": "Plate Quarter-Final 2",
-		"DetailsURL": "",
-		"TeamDate": "Jan 25, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/canada-under-19s-vs-ireland-under-19s-plate-quarter-final-2-1289818/live-cricket-score",
+		"TeamDate": "Jan 24, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "England",
+		"TeamTwoName": "South Africa",
+		"TeamOneImage": "https://www.shareicon.net/data/256x256/2016/08/18/815625_world_512x512.png",
+		"TeamTwoImage": "https://aux2.iconspalace.com/uploads/333944959.png",
 		"MatchCount": "Super League Quarter-Final 1",
-		"DetailsURL": "",
-		"TeamDate": "Jan 25, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/england-under-19s-vs-south-africa-under-19s-super-league-quarter-final-1-1289819/live-cricket-score",
+		"TeamDate": "Jan 25, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Scotland",
+		"TeamTwoName": "Zimbabwe",
+		"TeamOneImage": "https://cdn.countryflags.com/thumbs/scotland/flag-round-250.png",
+		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-round-250.png",
 		"MatchCount": "Plate Quarter-Final 3",
-		"DetailsURL": "",
-		"TeamDate": "Jan 26, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/scotland-under-19s-vs-zimbabwe-under-19s-plate-quarter-final-3-1289820/live-cricket-score",
+		"TeamDate": "Jan 25, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "West Indies",
+		"TeamTwoName": "Papua New Guinea",
+		"TeamOneImage": "https://i2.wp.com/cricinfonepal.com/wp-content/uploads/2018/03/west-indies.png",
+		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-round-250.png",
 		"MatchCount": "Plate Quarter-Final 4",
-		"DetailsURL": "",
-		"TeamDate": "Jan 26, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/west-indies-under-19s-vs-papua-new-guinea-under-19s-plate-quarter-final-4-1289821/live-cricket-score",
+		"TeamDate": "Jan 25, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Afghanistan",
+		"TeamTwoName": "Sri Lanka",
+		"TeamOneImage": "https://cdn.countryflags.com/thumbs/afghanistan/flag-round-250.png",
+		"TeamTwoImage": "https://taitongah.com.sg/wp-content/uploads/2020/11/sri-lanka-flag-round-icon-256.png",
 		"MatchCount": "Super League Quarter-Final 4",
-		"DetailsURL": "",
-		"TeamDate": "Jan 27, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/west-indies-under-19s-vs-papua-new-guinea-under-19s-plate-quarter-final-4-1289821/live-cricket-score",
+		"TeamDate": "Jan 26, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Australia",
+		"TeamTwoName": "Pakistan",
+		"TeamOneImage": "https://cdn.countryflags.com/thumbs/australia/flag-button-round-250.png",
+		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/pakistan/flag-round-250.png",
 		"MatchCount": "Super League Quarter-Final 3",
-		"DetailsURL": "",
-		"TeamDate": "Jan 28, 02:00 PM"
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-sri-lanka-under-19s-super-league-quarter-final-4-1289822/live-cricket-score",
+		"TeamDate": "Jan 27, 11:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -113,7 +67,7 @@
 		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "9th Place Play-off Semi-Final",
-		"DetailsURL": "",
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/australia-under-19s-vs-pakistan-under-19s-super-league-quarter-final-3-1289823/live-cricket-score",
 		"TeamDate": "Jan 28, 02:00 PM"
 	},
 	{
@@ -126,13 +80,13 @@
 		"TeamDate": "Jan 28, 02:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Bangladesh",
+		"TeamTwoName": "India",
+		"TeamOneImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Bangladesh-icon.png",
+		"TeamTwoImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/India-icon.png",
 		"MatchCount": "Super League Quarter-Final 2",
 		"DetailsURL": "",
-		"TeamDate": "Jan 29, 02:00 PM"
+		"TeamDate": "Jan 28, 11:00 PM"
 	},
 	{
 		"TeamOneName": "TBA",
@@ -140,7 +94,7 @@
 		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
 		"MatchCount": "13th Place Play-off Semi-Final",
-		"DetailsURL": "",
+		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/bangladesh-under-19s-vs-india-under-19s-super-league-quarter-final-2-1289826/live-cricket-score",
 		"TeamDate": "Jan 29, 02:00 PM"
 	},
 	{
