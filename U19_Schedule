@@ -1,13 +1,4 @@
 [{
-		"TeamOneName": "England",
-		"TeamTwoName": "Afghanistan",
-		"TeamOneImage": "https://pnggrid.com/wp-content/uploads/2021/06/England-Flag-Round-Image.png",
-		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/afghanistan/flag-round-250.png",
-		"MatchCount": "1st Semi-Final",
-		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/afghanistan-under-19s-vs-england-under-19s-1st-semi-final-1289835/live-cricket-score",
-		"TeamDate": "Feb 01, 01:00 PM"
-	},
-	{
 		"TeamOneName": "Australia",
 		"TeamTwoName": "India",
 		"TeamOneImage": "https://cdn.countryflags.com/thumbs/australia/flag-button-round-250.png",
@@ -35,21 +26,21 @@
 		"TeamDate": "Feb 02, 11:00 PM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "Afghanistan",
+		"TeamTwoName": "Australia",
+		"TeamOneImage": "https://cdn.countryflags.com/thumbs/afghanistan/flag-round-250.png",
+		"TeamTwoImage": "https://cdn.countryflags.com/thumbs/australia/flag-button-round-250.png",
 		"MatchCount": "3rd Place Play-off",
 		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/tba-vs-tba-3rd-place-play-off-1289839/live-cricket-score",
-		"TeamDate": "Feb 03, 11:00 PM"
+		"TeamDate": "Feb 03, 11:00 AM"
 	},
 	{
-		"TeamOneName": "TBA",
-		"TeamTwoName": "TBA",
-		"TeamOneImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
-		"TeamTwoImage": "https://cdn.pixabay.com/photo/2017/10/16/12/30/coming-soon-2857144_960_720.png",
+		"TeamOneName": "England",
+		"TeamTwoName": "India",
+		"TeamOneImage": "https://cdn.countryflags.com/thumbs/england/flag-button-round-250.png",
+		"TeamTwoImage": "https://flagdownload.com/wp-content/uploads/Flag_of_India_Flat_Round-256x256.png",
 		"MatchCount": "Final, North Sound",
 		"DetailsURL": "https://www.espncricinfo.com/series/icc-under-19-world-cup-2021-22-1289790/tba-vs-tba-final-1289840/live-cricket-score",
-		"TeamDate": "Feb 04, 11:00 PM"
+		"TeamDate": "Feb 04, 11:00 AM"
 	}
 ]
