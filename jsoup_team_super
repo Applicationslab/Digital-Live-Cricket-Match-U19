@@ -1,0 +1,67 @@
+[{
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Afghanistan-icon.png",
+		"TeamName": "Afghanistan",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Australia-icon.png",
+		"TeamName": "Australia",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21199"
+	}, {
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/England-icon.png",
+		"TeamName": "England",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21213"
+	},
+	{
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/New-Zealand-icon.png",
+		"TeamName": "New Zealand",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paris_RER_A_icon.svg/1024px-Paris_RER_A_icon.svg.png",
+		"TeamName": "Group A Winner",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Super 12 - Group A",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Paris_RER_B_icon.svg/480px-Paris_RER_B_icon.svg.png",
+		"TeamName": "Group B Runner-Up",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Bangladesh-icon.png",
+		"TeamName": "Bangladesh",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/India-icon.png",
+		"TeamName": "India",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21640"
+	},
+	{
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Pakistan-icon.png",
+		"TeamName": "Pakistan",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/128/South-africa-icon.png",
+		"TeamName": "South Africa",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21276"
+	}, {
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Paris_RER_B_icon.svg/480px-Paris_RER_B_icon.svg.png",
+		"TeamName": "Group B Winner",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Super 12 - Group B",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paris_RER_A_icon.svg/1024px-Paris_RER_A_icon.svg.png",
+		"TeamName": "Group A Runner-Up",
+		"TeamPlayer": ""
+	}
+]
