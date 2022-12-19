@@ -1,0 +1,41 @@
+[{
+		"GroupName": "Coach: Julian Wood",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/250px-Chattogram_Challengers.png",
+		"TeamName": "Chattogram Challengers",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21962"
+	}, {
+		"GroupName": "Coach: Mohammad Salahuddin",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/250px-Comilla_Victorians.png",
+		"TeamName": "Comilla Victorians",
+		"TeamPlayer": ""
+	}, {
+		"GroupName": "Coach: Chaminda Vaas",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Dhaka_Dominators.png/200px-Dhaka_Dominators.png",
+		"TeamName": "Dhaka Dominators",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Coach: Nazmul Abedin Fahim",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
+		"TeamName": "Fortune Barishal",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Coach: Khaled Mahmud",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
+		"TeamName": "Khulna Tigers",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Coach: TBD",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Rangpur_Riders_Logo.png/200px-Rangpur_Riders_Logo.png",
+		"TeamName": "Rangpur Riders",
+		"TeamPlayer": ""
+	},
+	{
+		"GroupName": "Coach: Rajin Saleh",
+		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sylhet_Strikers_logo.png/250px-Sylhet_Strikers_logo.png",
+		"TeamName": "Sylhet Strikers",
+		"TeamPlayer": ""
+	}
+]
