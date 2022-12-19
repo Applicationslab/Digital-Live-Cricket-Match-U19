@@ -21,16 +21,6 @@
 		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/22270"
 	},
 	{
-		"GroupName": "Super 12 - Group A",
-		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paris_RER_A_icon.svg/1024px-Paris_RER_A_icon.svg.png",
-		"TeamName": "Group A Winner",
-		"TeamPlayer": ""
-	}, {
-		"GroupName": "Super 12 - Group A",
-		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Paris_RER_B_icon.svg/480px-Paris_RER_B_icon.svg.png",
-		"TeamName": "Group B Runner-Up",
-		"TeamPlayer": ""
-	}, {
 		"GroupName": "Super 12 - Group B",
 		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Bangladesh-icon.png",
 		"TeamName": "Bangladesh",
@@ -53,15 +43,49 @@
 		"TeamName": "South Africa",
 		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21276"
 	}, {
-		"GroupName": "Super 12 - Group B",
-		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Paris_RER_B_icon.svg/480px-Paris_RER_B_icon.svg.png",
-		"TeamName": "Group B Winner",
-		"TeamPlayer": ""
+		"GroupName": "First round - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Namibia-icon.png",
+		"TeamName": "Namibia",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21703"
+	}, {
+		"GroupName": "First round - Group A",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/128/Sri-lanka-icon.png",
+		"TeamName": "Sri Lanka",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21997"
+	}, {
+		"GroupName": "First round - Group A",
+		"TeamImage": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-256x256.png",
+		"TeamName": "Netherlands",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21402"
 	},
 	{
-		"GroupName": "Super 12 - Group B",
-		"TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paris_RER_A_icon.svg/1024px-Paris_RER_A_icon.svg.png",
-		"TeamName": "Group A Runner-Up",
-		"TeamPlayer": ""
+		"GroupName": "First round - Group A",
+		"TeamImage": "https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png",
+		"TeamName": "UAE",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/22207"
+	},
+	{
+		"GroupName": "First round - Group B",
+		"TeamImage": "https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Scotland-icon.png",
+		"TeamName": "Scotland",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/22480"
+	},
+	{
+		"GroupName": "First round - Group B",
+		"TeamImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"TeamName": "West Indies",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/21829"
+	},
+	{
+		"GroupName": "First round - Group B",
+		"TeamImage": "https://cdn.countryflags.com/thumbs/ireland/flag-round-250.png",
+		"TeamName": "Ireland",
+		"TeamPlayer": "https://m.cricbuzz.com/cricket-series/3961/icc-mens-t20-world-cup-2022/squads/22424"
+	},
+	{
+		"GroupName": "First round - Group B",
+		"TeamImage": "https://cdn.iconscout.com/icon/free/png-256/data-not-found-1965034-1662569.png",
+		"TeamName": "Zimbabwe",
+		"TeamPlayer": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-round-250.png"
 	}
 ]
